@@ -1,1 +1,1 @@
-My first readme
+ALX school is a place to be
